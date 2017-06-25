@@ -8,7 +8,7 @@ On reset, the sketch reads a string from EEPROM. If not initialised, it'll proba
 how do  
 The sketch responds to three commands over serial:
 @@reset@@ resets the counter.
-@@message@@ sets a new scrolling message, stashes it in EEPROM, and resets the counter.
+@@a new message@@ sets "a new message" as the scrolling message, stashes it in EEPROM, and resets.
 @@yo@@ is for Yobiquity™ integration.
 
 where's that serial supposed to come from then?  
