@@ -46,3 +46,7 @@ display	arduino	what
 14		A3		latch  
 15		9		row strobe  
 16		GND		ground  
+
+i need to program the esp/arduino but the box is nailed shut
+on the right side of the box there is serial connected to the ESP and USB connected to the Arduino
+the serial follows the FTDI color scheme
